@@ -20,7 +20,7 @@ To:               1 January YYYY at 12:01pm Pacific Standard Time
 
 **INTEREST:**  
 Real and Personal Property at the offices of the insured in USA (Washington) including the additional coverages defined below:  
-Personal Property of the Insured&#39;s Officials and Employees while on the Premises of the Insured  
+Personal Property of the Insured's Officials and Employees while on the Premises of the Insured  
 Improvements and Betterments  
 Business Interruption (Net Profits and / or Fixed Charges)  
 Ordinary Payroll  
@@ -42,17 +42,14 @@ Each claim for loss or damage shall be subject to a combined Property Damage and
 Earthquake / Windstorm / Flood: USD   2,000  
 All other perils except for the above: USD 1,000 
 ```
-    
-
-**INSURED'S**
-
-**RETENTION**:  
+**INSURED'S  RETENTION**:     
 20% of 100%.
 
 **SITUATION**:  
-Offices of the insured in the USA.
+Offices of the yinsured in the USA.
 
-**CONDITIONS:** _(Any bespoke wording or clauses will form part of this section, whereas model or registered wordings or clauses can be referred to by reference as per the following example)_   
+**CONDITIONS:**   
+_(Any bespoke wording or clauses will form part of this section, whereas model or registered wordings or clauses can be referred to by reference as per the following example)_   
 ```
 XYZ Insurer - Primary Property wording CPROP192 - dated January 2005  
 NMA 2914 (Amended Perils) Electronic Data Endorsement A (Section two sub-limit USD 10,000,000)  
@@ -77,7 +74,7 @@ Where the Survey is not submitted to the Insurer by the Survey Deadline, cover s
 
 Where the Survey is submitted to the Insurer by the Survey Deadline, cover shall continue from the Survey Deadline on the Contract Terms until expiry of the period of the contract unless and until terminated in accordance with the following paragraph.
 
-In the event that the Survey is unsatisfactory to the Insurer, the Insurer shall have the right, within 14 days of its receipt, to terminate the contract by serving not less than 14 days&#39; notice in writing to the Insured at its address shown in the contract, such notice expiring no earlier than the Survey Deadline.
+In the event that the Survey is unsatisfactory to the Insurer, the Insurer shall have the right, within 14 days of its receipt, to terminate the contract by serving not less than 14 days' notice in writing to the Insured at its address shown in the contract, such notice expiring no earlier than the Survey Deadline.
 
 In the event of termination under this survey condition, the Insured shall be entitled to pro rata return of premium for the unexpired period of the contract unless a loss has arisen for which the Insured seeks indemnity under this contract in which case the Insurers shall remain entitled to the premium specified in the Contract Terms.
 
@@ -99,37 +96,17 @@ Plus:
 USD 10,000 (100%) Annual in respect of Non-Certified Terrorism
 
 
-**PREMIUM**
-
-**PAYMENT TERMS:**  
+**PREMIUM PAYMENT TERMS:**  
 60 Day Payment condition – LSW 3001 Premium Payment Clause
 
-**TAXES PAYABLE**
-
-**BY INSURED AND**
-
-**ADMINISTERED**
-
-**BY INSURER(S):**
-
-_(For all taxation headings, where there are a large number of locations and/or taxes applicable then it may be more practical to provide the tax information in an attached spreadsheet/tax schedule, which may then be referenced here.)_
-
+**TAXES PAYABLE BY INSURED AND ADMINISTERED BY INSURER(S):**  
+_(For all taxation headings, where there are a large number of locations and/or taxes applicable then it may be more practical to provide the tax information in an attached spreadsheet/tax schedule, which may then be referenced here.)_  
 None applicable
 
-
-
-**RECORDING,**
-
-**TRANSMITTING STORING**
-
-**INFORMATION:**  
+**RECORDING, TRANSMITTING STORING INFORMATION:**  
 Where Broker XYZ maintains risk and claim data/information/documents Broker XYZ may hold data/information/documents electronically.
 
-**INSURER**
-
-**CONTRACT**
-
-**DOCUMENTATION:**
+**INSURER CONTRACT DOCUMENTATION:**  
 _(An insurer may specify here any insurer contract documentation requirements that apply to them. e.g. need for a policy, or policy endorsements, including the policy form to be used.)_
 
 This document details the contract terms entered into by the insurer(s), and constitutes the contract document.
@@ -138,12 +115,7 @@ This contract is subject to US state surplus lines requirements. It is the respo
 
 Any further documentation changing this contract, agreed in accordance with the contract change provisions set out in this contract, shall form the evidence of such change
 
-**NOTICE OF**
-
-**CANCELLATION**
-
-**PROVISIONS:**
-
+**NOTICE OF CANCELLATION PROVISIONS:**   
 Where (re)insurers have the right to give notice of cancellation, in accordance with the provisions of the contract, then:
 
 To the extent provided by the contract, the Slip Leader is authorised to issue such notice on behalf of all participating (re)insurers; and (optionally)
@@ -151,12 +123,7 @@ To the extent provided by the contract, the Slip Leader is authorised to issue s
 Any (re)insurer may issue such notice in respect of its own participation.
 
 
-
-PAGE X OF Y
-
-
-
-The content and format of any such notice should be in accordance with the &#39;Notice of Cancellation&#39; standard, as published by the London Market Group (LMG), or their successor body, on behalf of London Market Associations and participants. However failure to comply with this standard will not affect the validity of the notice given.
+The content and format of any such notice should be in accordance with the 'Notice of Cancellation' standard, as published by the London Market Group (LMG), or their successor body, on behalf of London Market Associations and participants. However failure to comply with this standard will not affect the validity of the notice given.
 
 
 
