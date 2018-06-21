@@ -1,3 +1,3 @@
 # sample_contract
-insurance document
+insurance document  
 This will be an instance of a slip
