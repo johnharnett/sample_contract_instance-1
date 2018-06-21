@@ -1,3 +1,3 @@
 # sample_contract
 insurance document
-this is a change to the front sheet
+This will be an instance of a slip
