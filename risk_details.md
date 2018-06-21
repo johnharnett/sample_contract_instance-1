@@ -1,129 +1,77 @@
-
-**Items in italics are for information only and should not be shown in a real contract**
-
-**THE CONTRACT DOCUMENT**
-
-_(A front page or wrapper may be added by the broker. Irrespective of whether such a page is used, this page below will always be page one of the contract)_
-
-
-
-**US EXAMPLE:**
-
-**                                                                                       **
-
 # Risk Details:
 
 
-
-**UNIQUE MARKET**
-
-**REFERENCE :       ** B0999ABC123456789
-
-
-
-**TYPE:**         All Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
-
-**INSURED:                       ** XXXX American Inc.
-
-**ADDRESS:**         Number 1, Big Boulevard, Olympia, Washington (WA) 99999, USA
-
-**PERIOD:**         Effective from:         1 January YYYY at 12:01pm Pacific Standard Time
-
-**       ** To:         1 January YYYY at 12:01pm Pacific Standard Time
-
-**INTEREST:**         Real and Personal Property at the offices of the insured in USA (Washington) including the additional coverages defined below:
-
-        Personal Property of the Insured&#39;s Officials and Employees while on the Premises of the Insured
-
-                        Improvements and Betterments
-
-                        Business Interruption (Net Profits and / or Fixed Charges)
-
-                        Ordinary Payroll
-
-                            Rental Value / Rental Income
-
-                            Electronic Data Processing Equipment and Machinery
-
-andas fully defined in the contract wording and clauses referenced herein.
-
-
-
-
-
-
-
-
-
-
-
-PAGE X OF Y
-
-**LIMITS:**                 USD 10,000,000        any one occurrence and in the annual aggregate in respect of Flood and Earthquake separately.
-
-Program Sublimits schedule:
-
-Earthquake:        USD 2,000,000
-
-any one occurrence and in the annual aggregate
-
-Flood:        USD 2,000,000
-
-any one occurrence and in the annual aggregate
-
-Boiler &amp; Machinery:        USD 2,000,000
-
-any one accident
-
-Program Deductibles schedule:
-
-Each claim for loss or damage shall be subject to a combined Property Damage and Time Element deductible as follows:
-
-Earthquake / Windstorm / Flood:        USD   2,000
-
-All other perils except for the above:     USD   1,000
-
-**INSURED&#39;S**
-
-**RETENTION** :        20% of 100%.
-
-**SITUATION**** :            **Offices of the insured in the USA.
-
-**CONDITIONS:      ** _(Any bespoke wording or clauses will form part of this section, whereas_
-
-_ model or registered wordings or clauses can be referred to by reference as per the following example)_
-
-XYZ Insurer - Primary Property wording CPROP192 - dated January 2005
-
- NMA 2914 (Amended Perils) Electronic Data Endorsement A (Section two sub-limit USD 10,000,000)
-
-        LMA 5019 Asbestos Endorsement
-
-NMA 2962 Biological or Chemical Materials Exclusion
-
-        NMA 1168 Small Additional or Return Premium Clause (U.S.A)
-
-LMA 9011 TRIA Notice
-
-LSW 3001 Premium Payment Clause
-
-LMA9150 Single Claims Agreement Party Arrangements
-
-**LOSS PAYEE:**         XXXX Inc. Number 2 Boulevard, Olympia, Washington (WA) 99999, USA
-
-
-
-
-
-
-
-PAGE X OF Y
-
-**SUBJECTIVITIES:**  **   **
-
-The Insured shall provide to the Insurer a property survey report on the insured addresses such report to be prepared by MNO Surveyors (&quot;the Survey&quot;). The Survey shall be so provided by 12:01p.m. Pacific Standard Time on 31 January YYYY (&quot;the Survey Deadline&quot;).
-
-Between inception and the Survey Deadline, cover is provided by the Insurer on the terms and conditions specified in the contract to which this condition is attached (&quot;the Contract Terms&quot;).
+**UNIQUE MARKET REFERENCE** :       B0999ABC123456789
+
+
+
+**TYPE:**  
+All Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
+
+**INSURED:**  
+XXXX American Inc.
+
+**ADDRESS:**  
+Number 1, Big Boulevard, Olympia, Washington (WA) 99999, USA
+
+**PERIOD:**   
+Effective from:   1 January YYYY at 12:01pm Pacific Standard Time  
+To:               1 January YYYY at 12:01pm Pacific Standard Time
+
+**INTEREST:**  
+Real and Personal Property at the offices of the insured in USA (Washington) including the additional coverages defined below:  
+Personal Property of the Insured&#39;s Officials and Employees while on the Premises of the Insured  
+Improvements and Betterments  
+Business Interruption (Net Profits and / or Fixed Charges)  
+Ordinary Payroll  
+Rental Value / Rental Income  
+Electronic Data Processing Equipment and Machinery  
+and as fully defined in the contract wording and clauses referenced herein.  
+
+**LIMITS:**  
+USD 10,000,000 any one occurrence and in the annual aggregate in respect of Flood and Earthquake separately.  
+Program Sublimits schedule:  
+```
+Earthquake: USD 2,000,000 any one occurrence and in the annual aggregate  
+Flood: USD 2,000,000 any one occurrence and in the annual aggregate  
+Boiler & Machinery: USD 2,000,000 any one accident  
+```
+Program Deductibles schedule  
+Each claim for loss or damage shall be subject to a combined Property Damage and Time Element deductible as follows:  
+```
+Earthquake / Windstorm / Flood: USD   2,000  
+All other perils except for the above: USD 1,000 
+```
+    
+
+**INSURED'S**
+
+**RETENTION**:  
+20% of 100%.
+
+**SITUATION**:  
+Offices of the insured in the USA.
+
+**CONDITIONS:** _(Any bespoke wording or clauses will form part of this section, whereas model or registered wordings or clauses can be referred to by reference as per the following example)_   
+```
+XYZ Insurer - Primary Property wording CPROP192 - dated January 2005  
+NMA 2914 (Amended Perils) Electronic Data Endorsement A (Section two sub-limit USD 10,000,000)  
+LMA 5019 Asbestos Endorsement  
+NMA 2962 Biological or Chemical Materials Exclusion  
+NMA 1168 Small Additional or Return Premium Clause (U.S.A)  
+LMA 9011 TRIA Notice  
+LSW 3001 Premium Payment Clause  
+LMA9150 Single Claims Agreement Party Arrangements  
+```
+
+**LOSS PAYEE:**  
+XXXX Inc. Number 2 Boulevard, Olympia, Washington (WA) 99999, USA
+
+
+**SUBJECTIVITIES:**  
+The Insured shall provide to the Insurer a property survey report on the insured addresses such report to be prepared by MNO Surveyors ("the Survey"). The Survey shall be so provided by 12:01p.m. Pacific Standard Time on 31 January YYYY ("the Survey Deadline").
+
+Between inception and the Survey Deadline, cover is provided by the Insurer on the terms and conditions specified in the contract to which this condition is attached ("the Contract Terms").
 
 Where the Survey is not submitted to the Insurer by the Survey Deadline, cover shall terminate at the Survey Deadline.
 
@@ -135,47 +83,34 @@ In the event of termination under this survey condition, the Insured shall be en
 
 To the extent that this survey condition conflicts with any other cancellation, notice and premium provision in the Contract Terms, this survey condition shall prevail.
 
-**CHOICE OF**
-
-**LAW AND**
-
-**JURISDICTION:**  This insurance shall be governed by and construed in accordance with the Revised Code of Washington (RCW). Each party agrees to submit to the exclusive jurisdiction of any competent court within the United States of America.
-
+**CHOICE OF LAW AND JURISDICTION:**  
+This insurance shall be governed by and construed in accordance with the Revised Code of Washington (RCW). Each party agrees to submit to the exclusive jurisdiction of any competent court within the United States of America.
 NMA 1998 (24/04/86) Service of Suit Clause:
+A.N.O. Attorneys (or their Nominees)
+211 Main St
+Olympia
+Washington (WA) 99999, USA
 
-        A.N.O. Attorneys (or their Nominees)
-
-        211 Main St
-
-        Olympia
-
-        Washington (WA) 99999, USA
-
-**PREMIUM:**         USD 1,000,000 (100%) Annual
-
+**PREMIUM:**  
+USD 1,000,000 (100%) Annual  
 Plus:
-
-USD 50,000 (100%) Annual in respect of TRIA
-
-Plus:
-
+USD 50,000 (100%) Annual in respect of TRIA  
+Plus:  
 USD 10,000 (100%) Annual in respect of Non-Certified Terrorism
 
 
-
-PAGE X OF Y
-
 **PREMIUM**
 
-**PAYMENT TERMS:**         60 Day Payment condition – LSW 3001 Premium Payment Clause
+**PAYMENT TERMS:**  
+60 Day Payment condition – LSW 3001 Premium Payment Clause
 
-**TAXES PAYABLE                **
+**TAXES PAYABLE**
 
 **BY INSURED AND**
 
 **ADMINISTERED**
 
-**BY INSURER(S):         **
+**BY INSURER(S):**
 
 _(For all taxation headings, where there are a large number of locations and/or taxes applicable then it may be more practical to provide the tax information in an attached spreadsheet/tax schedule, which may then be referenced here.)_
 
@@ -185,17 +120,17 @@ None applicable
 
 **RECORDING,**
 
-**TRANSMITTING &amp;**
+**TRANSMITTING STORING**
 
-**STORING**
-
-**INFORMATION:**  Where Broker XYZ maintains risk and claim data/information/documents Broker XYZ may hold data/information/documents electronically.
+**INFORMATION:**  
+Where Broker XYZ maintains risk and claim data/information/documents Broker XYZ may hold data/information/documents electronically.
 
 **INSURER**
 
 **CONTRACT**
 
-**DOCUMENTATION:**         _(An insurer may specify here any insurer contract documentation requirements that apply to them. e.g. need for a policy, or policy endorsements, including the policy form to be used.)_
+**DOCUMENTATION:**
+_(An insurer may specify here any insurer contract documentation requirements that apply to them. e.g. need for a policy, or policy endorsements, including the policy form to be used.)_
 
 This document details the contract terms entered into by the insurer(s), and constitutes the contract document.
 
