@@ -3,14 +3,15 @@
 
 **FEE PAYABLE**
 
-**BY CLIENT?:                       ** No
+**BY CLIENT?:**
+No
 
-
-
-**TOTAL BROKERAGE:**         Z%
+**TOTAL BROKERAGE:**  
+Z%
 
 **OTHER**
 
 **DEDUCTIONS**
 
-**FROM PREMIUM:               ** 5% Survey fee payable to XYZ Inc
+**FROM PREMIUM:**   
+5% Survey fee payable to XYZ Inc
