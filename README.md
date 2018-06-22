@@ -1,7 +1,3 @@
 # sample_contract
-insurance document  
-This will be an instance of a slip  
-this is change to the template  
-##### this is another change  
 
-## this is a change to john harnett instance
+this is a re-imagining of the document to be found at [LondonMarketGroup.co.uk](https://admin.londonmarketgroup.co.uk/wp-content/uploads/2018/01/MRC-Open-Market-v1.8-February-2018-sample-slip.docx)  
