@@ -6,7 +6,7 @@
 
 
 **TYPE:**  
-All Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
+Some Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
 
 **INSURED:**  
 XXXX American Inc.
